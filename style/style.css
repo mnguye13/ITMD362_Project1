@@ -464,6 +464,23 @@ nav a:hover{
   font-family: 'Ubuntu', sans-serif;
 }
 
+.grid-item-right {
+  background-color: white;
+  color: black;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 1.2em;
+  text-align: center;
+  opacity: 0.8;
+	margin-left: 5%;
+}
+.grid-item-right h1{
+	font-family: 'Russo One', sans-serif;
+	color: black;
+}
+
+
+
 .container{
   border: 2px solid black;
   padding: 5%;
