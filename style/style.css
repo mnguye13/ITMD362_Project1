@@ -392,3 +392,24 @@ nav a.icon {
     width: 100%;
   }
 }
+/*Logo & icon size*/
+#mainLogo{
+	width: 200px;
+	height: 200px;
+}
+#msIcon {
+	width: 200px;
+	height: 80px;
+}
+#intelIcon{
+	width: 50px;
+	height: 50px;
+}
+#ibmIcon{
+	width: 100px;
+	height: 50px;
+}
+#dellIcon{
+	width: 100px;
+	height: 50px;
+}
