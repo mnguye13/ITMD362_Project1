@@ -16,7 +16,7 @@ header {
 }
 
 header h1 {
-  font-family: 'Unlock', cursive;
+  font-family: 'Unlock','Roboto', cursive;
 }
 
 h1 {
@@ -78,7 +78,7 @@ nav a:hover {
 }
 
 .grid-item h1 {
-  font-family: 'Russo One', sans-serif;
+  font-family: 'Russo One','Roboto',sans-serif;
 }
 
 .grid-item p {
@@ -98,7 +98,7 @@ nav a:hover {
 }
 
 .grid-item-right h1 {
-  font-family: 'Russo One', sans-serif;
+  font-family: 'Russo One','Roboto', sans-serif;
   color: black;
 }
 
@@ -247,7 +247,7 @@ input[type=submit]:hover {
 }
 
 .modal-content h1 {
-  font-family: 'Russo One', sans-serif;
+  font-family: 'Russo One','Roboto', sans-serif;
   color: green;
 }
 

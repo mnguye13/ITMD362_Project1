@@ -63,7 +63,6 @@ function aboutModal(){
   }
 }
 
-
 var map;
 var marker;
 var current;
@@ -87,8 +86,6 @@ var paris = {lat: 36.1125, lng: -115.1707};
 var ballys = {lat: 36.1141, lng: -115.1706};
 var planet_hollywood = {lat: 36.1100, lng: -115.1718};
 function goto(location, title){
-
-
   map.panTo(location);
   map.setZoom(12);
   marker = new google.maps.Marker({
